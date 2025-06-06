@@ -2,5 +2,5 @@ my secone test!
 --1st modefy
 --2nd modefy~
 --3rd modefy!
--- modefy~~
-~~on luse --4th modefy!
+-- modefy
+~~on luse --4th
